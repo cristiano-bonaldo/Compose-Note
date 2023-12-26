@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Compose - Notes</string>
+    <string name="page_edit">Compose - Note</string>
+
+    <string name="error">Error!</string>
+    <string name="error_unexpected">Unexpected error!</string>
+    <string name="error_save_note">Error: App was not able to save the note!</string>
+    <string name="error_delete_note">Error: App was not able to delete the note!</string>
+    <string name="error_recover_note">Error: App was not able to recover the note!</string>
+    <string name="error_recover_list_note">Error: App was not able to recover notes!</string>
+    <string name="error_find_note">Error: Note was not found!</string>
+    <string name="error_invalid_title">The note is invalid!\n\nThe title was not informed.</string>
+    <string name="error_invalid_info">The note is invalid!\n\nThe note\'s information was not informed.</string>
+
+    <string name="loading">Loading data…</string>
+
+    <string name="bt_retry">Retry</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_yes">Yes</string>
+    <string name="bt_no">No</string>
+    <string name="bt_ok">OK</string>
+    <string name="bt_undo">UNDO</string>
+
+    <string name="delete_note">Delete Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="snack_delete_message">Note was deleted…</string>
+
+    <string name="sort_type">Sort Type:</string>
+    <string name="sort_type_ascending">Ascending</string>
+    <string name="sort_type_descending">Descending</string>
+
+    <string name="sort_field">Sort Field:</string>
+    <string name="sort_field_date">Date</string>
+    <string name="sort_field_title">Title</string>
+    <string name="sort_field_color">Color</string>
+
+    <string name="delete">Delete…</string>
+    <string name="delete_message">Do you really want to delete this note?\nTitle: %s</string>
+
+    <string name="hint_title">Enter a title…</string>
+    <string name="hint_info">Enter the note information…</string>
+
+
+</resources>
